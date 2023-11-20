@@ -1,8 +1,15 @@
+import React from "react";
+import BotCollection from "./components/BotCollection";
 
-import './App.css';
 
 function App() {
   return (
-   <></> 
+   <>
+   
+   <BotCollection/>
+   
+   
+   
+   </> 
   ) }
 export default App;
