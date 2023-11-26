@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 After cloning into the repo u can run :
 - npm install to install dependencies.
- - then start your db.json ensure u use  the  one with the end point of transactions.
+ - then start your db.json ensure u use  the  one with the end point of bots.
   -  now u  can start  the app by :
 ### `npm start`
 
