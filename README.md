@@ -1,11 +1,15 @@
-# bot
+# BOT-BATTLR
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As of our project app its a bank app we create npx create-react-app  BOT-BATTLR
 
-## How TO RUN THE pROJECT
-
+## How to run this app
 In the project directory, you can run:
 
+After cloning into the repo u can run :
+- npm install to install dependencies.
+ - then start your db.json ensure u use  the  one with the end point of transactions.
+  -  now u  can start  the app by :
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,20 +18,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+This app does a very simple job where u can add a transaction ,delete and search a transaction.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Technologies used 
+In this project i have used technologies  like :
+-  Java script
+- html
+- css 
+- react :
 
-#### WHAT THE APP DOES
-This is a simple app writen using
-- React
-- css
- - JavaScript
- - Hyper text mark up  language
- This app helps u to create ur ultimate army using bots
+To get more information on this Technologies you can look it up in the https://developer.mozilla.org/en-US/
 
- ##### License
+##### License
+
+
 MIT License
 
 Copyright © 2023 Simon Nganga
