@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-This app does a very simple job where u can add a transaction ,delete and search a transaction.
+This app does a very simple job wher tou can create your own army by adding a bot and delete the bot or release it its a very good app to try
 
 #### Technologies used 
 In this project i have used technologies  like :
