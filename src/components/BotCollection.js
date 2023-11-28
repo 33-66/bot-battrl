@@ -16,7 +16,7 @@ function handleAdd(selectBot){
 
 }
   useEffect(()=>{
-        fetch(" http://localhost:3000/bots")
+        fetch(" https://botis.onrender.com/bots")
         .then(response => response.json())
         .then(data => setBot(data))
     },[])
