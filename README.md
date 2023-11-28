@@ -19,7 +19,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 This app does a very simple job wher tou can create your own army by adding a bot and delete the bot or release it its a very good app to try
-
+- You  can  also easily get to the app through this   live link :    https://luminous-kitsune-23de9e.netlify.app
 #### Technologies used 
 In this project i have used technologies  like :
 -  Java script
