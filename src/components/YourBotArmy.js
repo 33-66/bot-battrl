@@ -8,7 +8,7 @@ setBotArray(remove)
 alert ('Until we meet again ')
 }    
 function removeCompletely(botsid){
-fetch( `http://localhost:3000/bots/${botsid}`,{
+fetch( ` https://botis.onrender.com/bots${botsid}`,{
     method: 'DELETE'
 })
 .then(()=>{
